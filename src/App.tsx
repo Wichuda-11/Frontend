@@ -38,11 +38,6 @@ function App() {
         <Button className="rectangle3"></Button>
         <Button className="rectangle4"></Button>
       </header>
-
-      <p>
-        Edit <code>src/App.tsx</code> and save to reload.
-      </p>
-      <a>Learn React</a>
     </div>
   );
 }
